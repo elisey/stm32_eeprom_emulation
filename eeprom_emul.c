@@ -20,7 +20,7 @@
 /** @addtogroup EEPROM_Emulation
   * @{
   */ 
-#include "eeprom.h"
+#include "eeprom_emul.h"
 
 /* Global variable used to store variable value in read sequence */
 uint16_t DataVar = 0;
