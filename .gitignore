@@ -1,0 +1,8 @@
+﻿*.o
+*.hex
+*.bin
+*.elf
+*.pbxproj
+*.cogui
+*.comarker
+stm32_eeprom_emulation/
