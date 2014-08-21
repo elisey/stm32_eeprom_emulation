@@ -71,6 +71,7 @@
   <Components path="./">
     <Component id="50" name="CMSIS core" path="" type="2"/>
     <Component id="440" name="RCC" path="" type="2"/>
+    <Component id="444" name="GPIO" path="" type="2"/>
     <Component id="455" name="FLASH" path="" type="2"/>
     <Component id="464" name="CMSIS Boot" path="" type="2"/>
   </Components>
